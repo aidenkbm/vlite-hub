@@ -5,6 +5,7 @@ A blazing fast, lightweight, and simple vector database made with numpy and llam
 
 
 
+
 ## features
 - 🔥 *fastest* vector db retrieval with binary embeddings and int8 rescoring 
 - 🏎️ accelerated embedding generation with llama.cpp
