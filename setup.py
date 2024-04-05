@@ -19,6 +19,6 @@ setup(
         'tiktoken'
     ],
     extras_require={
-        'ocr': ['git+https://github.com/aidenkbm/surya.git']
+        'ocr': ['surya @ git://github.com/aidenkbm/surya.git']
     },
 )
